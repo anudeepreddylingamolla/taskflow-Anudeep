@@ -6,8 +6,3 @@ venv/
 *.egg-info/
 dist/
 build/
-.vscode/
-.idea/
-.DS_Store
-*.log
-postgres_data/

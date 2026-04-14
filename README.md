@@ -67,6 +67,8 @@ docker exec -it taskflow_api python scripts/seed.py
 
 ## API Reference
 
+A full Postman collection for testing all endpoints is available in the repository: [Docs/taskflow_collection.json](./Docs/taskflow_collection.json)
+
 | Method | Endpoint | Description |
 |---|---|---|
 | POST | `/api/v1/auth/register` | Register new user |
