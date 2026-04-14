@@ -42,7 +42,7 @@ TaskFlow is a minimal but powerful task management system backend built with Pyt
    ```
 3. Start the services:
    ```bash
-   docker compose up --build
+   docker compose up 
    ```
 
 The API will be available at **http://localhost:5001**.
